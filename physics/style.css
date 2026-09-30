@@ -260,12 +260,6 @@ details.source-details .source-inner {
     max-width: none;
     padding: 0;
   }
-  .hero {
-    break-after: page;
-  }
-  h2 {
-    break-before: page;
-  }
   .source {
     break-inside: avoid;
   }
