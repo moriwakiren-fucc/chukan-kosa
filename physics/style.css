@@ -261,10 +261,10 @@ details.source-details .source-inner {
     max-width: none;
     padding: 0;
   }
-  .source {
+  .source-details {
     break-inside: avoid;
   }
-  .source img {
+  .source-details img {
     break-inside: avoid;
     page-break-inside: avoid;
   }
