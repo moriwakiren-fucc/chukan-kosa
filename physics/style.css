@@ -255,6 +255,9 @@ details.source-details .source-inner {
   main {
     padding: 9px;
   }
+  section {
+    break-after: always;
+  }
   .plan, .check {
     grid-template-columns: 1fr;
   }
