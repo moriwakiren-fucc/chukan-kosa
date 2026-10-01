@@ -217,6 +217,9 @@ details.source-details .source-inner {
     max-width: none;
     padding: 0;
   }
+  section {
+    break-after: always;
+  }
   .source {
     break-inside: avoid;
   }
@@ -254,9 +257,6 @@ details.source-details .source-inner {
 @media (max-width: 700px) {
   main {
     padding: 9px;
-  }
-  section {
-    break-after: always;
   }
   .plan, .check {
     grid-template-columns: 1fr;
